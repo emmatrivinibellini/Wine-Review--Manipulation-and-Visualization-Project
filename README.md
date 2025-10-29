@@ -2,7 +2,7 @@
 
 **Expensive Doesn’t Always Mean Better: What 130K Wine Reviews Reveal About Price & Quality**  
 
-**Dataset:** [Kaggle Wine Reviews Dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews)  
+**Dataset:** [Wine Reviews Dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews)  
 
 **Analyze 130K wine reviews to uncover regional patterns, price-quality dynamics, and actionable insights for building a global wine marketplace.**
 
@@ -46,7 +46,7 @@ Through **Python, Pandas, and data visualization tools**, this analysis identifi
 
 ## 🗂️ Dataset  
 
-- **Source:** [Kaggle Wine Reviews Dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews) (130,000 rows)  
+- **Source:** [Wine Reviews Dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews) (130,000 rows)  
 - **Main Columns:** `country`, `province`, `variety`, `vineyard`, `price`, `points`, `description`
 
 ---
